@@ -1,0 +1,4 @@
+#Thu Mar 25 11:11:37 KST 2021
+base.0=D\:\\12345\\KCPR\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
