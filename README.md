@@ -3,7 +3,7 @@
 
 2020 Microsoft-ImagineCup World Final List
 
-![Untitled](https://user-images.githubusercontent.com/59998914/126847722-977ee9fa-7d59-4c69-85d9-8ffb7ae4990c.png) ![Untitled 1](https://user-images.githubusercontent.com/59998914/126847701-1348719a-7647-4350-8b36-da9613b06c9e.png)
+![Untitled](https://user-images.githubusercontent.com/59998914/126847722-977ee9fa-7d59-4c69-85d9-8ffb7ae4990c.png) 
 
 ### 🌟 **2021 MicroSoft Imagine Cup Semifinals** 🌟
 
