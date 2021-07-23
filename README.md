@@ -3,9 +3,9 @@
 
 2020 Microsoft-ImagineCup World Final List
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/59998914/126847722-977ee9fa-7d59-4c69-85d9-8ffb7ae4990c.png)
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%201.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/59998914/126847701-1348719a-7647-4350-8b36-da9613b06c9e.png)
 
 ### 🌟 **2021 MicroSoft Imagine Cup Semifinals** 🌟
 
@@ -19,7 +19,7 @@ K-CPR is a smartwatch and mobile application that provides guidance and real-tim
 ## 👨‍👧‍👧 Team Infomation
 
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%202.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/59998914/126847704-f0de4c1d-1767-45c0-96bf-226db743afeb.png)  
 
 We are Team K-CPR. We met at the university programming club En#.
 
@@ -105,35 +105,36 @@ century was strong or weak.
 
 ## 🎞️ Preview
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%203.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/59998914/126847707-437aba72-b85c-45c6-a53e-bb4462f44bdd.png)
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%204.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/59998914/126847708-74262edf-a91f-48ce-907f-94443ad1a0fc.png)
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%205.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/59998914/126847709-c41f9bed-6eff-4ea0-b443-b3056100b41b.png)
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%206.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/59998914/126847712-5ae6f589-2978-4f19-95de-f3962fb42ab5.png)
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%207.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%207.png)
+![Untitled 7](https://user-images.githubusercontent.com/59998914/126847713-c2dd571d-78a7-465a-a8aa-6208b90f53a7.png)
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%208.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%208.png)
+![Untitled 8](https://user-images.githubusercontent.com/59998914/126847716-bd7be500-bba1-4bc1-96b9-f3da8ee1670b.png)
+
 
                                                             It is possible to receive
                                                            Training on CPR courses
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%209.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%209.png)
+![Untitled 9](https://user-images.githubusercontent.com/59998914/126847719-c7794682-320f-4bab-980b-3bb6a1f06272.png)
 
                                                          The user’s pressure
                                                      speed and intensity can be
                                                         monitored in real-time
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%2010.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%2010.png)
+![Untitled 10](https://user-images.githubusercontent.com/59998914/126847720-d1a6fc08-885a-43d6-91f5-40a682b770de.png)
 
                                                                  After the set time,
                                                         user can check CPR feedback
 
 ## 🛠️ System Configuration
 
-![%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%2011.png](%F0%9F%92%9F%20K-CPR%205a2a2637492442d7b67b35f9fda027e0/Untitled%2011.png)
+![Untitled 11](https://user-images.githubusercontent.com/59998914/126847721-a4855ee5-2302-473f-b938-1b0df516dc7a.png)
 
 ## 💭 I Learned
 
